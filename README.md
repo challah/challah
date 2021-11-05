@@ -3,7 +3,7 @@
 I'm Jordanne. I'm part of a set of three.
 
 <figure>
-<img src="setof3_400percent.gif" style="image-rendering: crisp-edges;" alt="Jordanne, Dini and Yuanyuan at the keyboard">
+<img src="setof3_400percent.gif" style="image-rendering: crisp-edges;" alt="Jordanne, Dini and Yuanyuan at the keyboard" width="256px">
 <figcaption>Jordanne, Yuanyuan and Dini at the keyboard</figcaption>
 </figure>
 
