@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**challah/challah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jordanne. I'm part of a set of three.
 
-Here are some ideas to get you started:
+<figure>
+<img src="setof3_400percent.gif" style="image-rendering: crisp-edges;" alt="Jordanne, Dini and Yuanyuan at the keyboard">
+<figcaption>Jordanne, Yuanyuan and Dini at the keyboard</figcaption>
+</figure>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pronouns: she/her
+- 🧶 My Cats Rule Everything Around Me
+- 🍞 I love eating bread.
+
+## What I'm working on
+- Static sites with Hugo!
+- Creative coding with p5.js!
+- A bit of Python with microcontrollers
+- Always be [Scratching](https://scratch.mit.edu/users/FrogWithLargeHead/)
